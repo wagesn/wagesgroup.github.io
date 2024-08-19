@@ -1,1 +1,4 @@
 # wagesgroup.github.io
+Welcome!
+
+We are a research group in the Department of Biostatistics at Virginia Commonwealth University. Our research focuses on developing novel statistical methods for the design and analysis of early-phase clinical trials, with specific interests in drug combinations, patient heterogeneity, multiple treatment schedules, therapeutic cancer vaccines, late-onset toxicities, patient-reported outcomes, and adoptive cell immunotherapy. Our research has advanced through consistent NIH funding since 2014 and many of our methodological developments we have have published have been successfully implemented in investigator-initiated clinical trials. Our methodology research has complemented our collaborative efforts by focusing on practical guidance for implementing novel methods in real studies. 
